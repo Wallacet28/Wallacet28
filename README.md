@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallacet28&theme=dark&show_icons=true&count_private=true&hide=prs,contribs)
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
 
 ## Linguagens Principais
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacet28&layout=compact&theme=dark)
