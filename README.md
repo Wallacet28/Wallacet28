@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallacet28&theme=dark&show_icons=true&count_private=true&hide=prs,contribs)
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 ## Linguagens Principais
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacet28&layout=compact&theme=dark)
